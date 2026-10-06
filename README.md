@@ -10,7 +10,11 @@ Selamat datang di repositori dokumentasi belajar Git saya! Repositori ini dibuat
 | --- | --- |
 | **Nama** | Nathanael Eka Putra Gunawan |
 | **Kelas** | XII RPL 1 |
+| **Sekolah** | SMK TI Garuda Nusantara |
 | **Alamat** | Jl. Pondok Mutiara IX No 18 |
+| **Email** | *[nathangunawan951@gmail.com]* |
+| **GitHub** | *[https://github.com/nathanaelekaputra-create]* |
+| **Minat/Fokus** | Web Development (Front-End & Back-End), Database Management |
 | **Cita-cita** | Menjadi Web Developer yang Handal |
 
 ---
